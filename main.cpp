@@ -1,6 +1,6 @@
 /**
   * @author Maksim Shishkov
-  * @file Rmain.cpp
+  * @file main.cpp
   * @brief A program that takes a string as a parameter and finds all the possible
   *        combinations of characters of the provided string using recursion.
   */
